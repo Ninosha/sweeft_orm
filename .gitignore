@@ -1,5 +1,6 @@
-./.idea
+/.idea
 **/*.json
 **/*.txt
 **/*.pyc
 **/*.csv
+**/*.db
